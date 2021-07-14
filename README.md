@@ -1,5 +1,5 @@
-# coinproject
-for automatic coin trading program
+# 가상화폐 자동 매도 매수 프로그램 프로젝트
+업비트 API, 거래 데이터를 활용한 가격 예측 및 자동 매도 매수
 
 ## 사용 API
 https://upbit.com/
